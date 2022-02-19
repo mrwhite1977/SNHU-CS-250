@@ -1,2 +1,13 @@
 # SNHU-CS-250
 Sprint Review and Retrospective
+How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+
+I can interpret the user needs first by asking open ended questions to get the user to share with me what they want and need.  I can also view the current product or similar, popular products to gauge what users are wanting.  The idea is that we not only give the user what they want but develop products that they do not realize they need.  By collecting feedback, we can create user stories that tell me in a concise way what the user wants.  Creating user stories builds a roadmap to create the product and experience that the user desires.  Good user stories give us an idea of how long it will take to accomplish individual tasks which we can use to calculate how long a project will take to complete.
+
+How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+
+For me when I am developing a program, I determine what is my ultimate goal and then I can plot out the steps it will take to get me to that goal.  In my work experience, strong, effective communication can make or break a project.  You have to be clear on what you want to accomplish and set realistic timelines to achieve results.  In the future I want to incorporate more collaboration in my work.  I enjoy talking to people and getting feedback and insights from others.  However, I have a habit of not wanting to bother others when I am working.  I plow along by myself not because I feel I know everything but that I want to demonstrate that I am capable.  Collaboration allows us to gain perspective on things to eliminate errors and reduce redundant work.  I also like the idea of a board to plot out my work.  In the past. I have resisted making note cards and using other such planning tools because I felt they were a time waste.  However, when I have used them it has made work easier and more efficient.  I need to build this habit of planning.
+
+What does it mean to be a good team member in software development?
+
+A good software developer is a team player who shares expertise and collaborates with the team to accomplish great things.  A good software developer also actively listens to others to help identify opportunities and talk through challenges.  They also challenge themselves to learn new skills and stay current on the latest trends.  A good developer does not get stagnant.  And a good software developer understands that any project is a group effort.  No one person accomplishes a large project alone.  One might contribute more than another but they understand that they would not be successful without the team's contributions.
